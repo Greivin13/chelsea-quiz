@@ -98,7 +98,7 @@
     color: white;
    }
    .score-body{
-    background-image: url(/Users/greivinarias/bootcamp/chelsea-quiz/assets/img/chelsea-champions.jpeg);
+    background-image: url(../img/chelsea-champions.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
