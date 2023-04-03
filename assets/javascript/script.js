@@ -25,7 +25,7 @@ const quizData = [
     correct: "d",
 },
 {
-    question: "How many times has Chelsea Won the UEFA Champions League?",
+    question: "Chelsea won   Champions Leagues",
     a: "0",
     b: "6",
     c: "1",
@@ -49,7 +49,7 @@ const quizData = [
     correct: "b",
 },
  {
-    question: "How many times has Chelsea Won the Premier League?",
+    question: "Chelsea won   Premier Leagues",
 a: "3",
 b: "6",
 c: "1",
