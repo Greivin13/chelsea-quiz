@@ -23,6 +23,9 @@ In this challenge we were given the task to create a quiz that can keep track of
 -https://developer.mozilla.org/en-US/docs/Web/JavaScript
 -https://codepen.io/
 
+## Issues
+- Some of the javascript  gave me huge trouble.
+- Changes were commited all at once instead of one by one.
 
 ![alt text](assets/img/Screenshot-2.png)
 ![alt text](assets/img/Screenshot-3.png)
